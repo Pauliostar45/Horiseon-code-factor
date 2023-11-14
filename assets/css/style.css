@@ -94,6 +94,25 @@ body {
     background-color: #2589bd;
 }
 
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+
+
 
 padding-top: 15px;
     margin-right: 20px;
