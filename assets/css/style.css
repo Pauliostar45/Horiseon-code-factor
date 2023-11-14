@@ -49,6 +49,14 @@ hero {
     background: url("../images/digital-marketing-meeting.jpg") center/cover;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+
+
+
 
 
 padding-top: 15px;
